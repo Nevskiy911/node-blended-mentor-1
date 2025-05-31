@@ -8,5 +8,6 @@ export const writeProducts = async (products) => {
     console.log('Дані записані');
   } catch (error) {
     console.log(error.message);
+    throw error;
   }
 };

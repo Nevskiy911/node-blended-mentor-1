@@ -8,6 +8,7 @@ export const readProducts = async () => {
     return JSON.parse(data);
   } catch (error) {
     console.log('Помилка зчитування', error.message);
+    throw error;
   }
 };
 readProducts();

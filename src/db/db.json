@@ -46,5 +46,17 @@
     "price": "137.45",
     "category": "Beauty",
     "description": "The Katharina Pizza is the latest in a series of weird products from Klocko Group"
+  },
+  {
+    "name": "Electronic Silk Sausages",
+    "price": "923.65",
+    "category": "Music",
+    "description": "The Visionary holistic portal Soap offers reliable performance and velvety design"
+  },
+  {
+    "name": "Modern Plastic Mouse",
+    "price": "818.09",
+    "category": "Automotive",
+    "description": "The Whitney Chair is the latest in a series of minty products from Parisian, Kiehn and Schuppe"
   }
 ]
