@@ -1,0 +1,27 @@
+{
+  "name": "blended-mentor-1",
+  "version": "1.0.0",
+  "description": "TASK 1\r Створіть новий командний репозиторій на github.com, оберіть .gitignore (node).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevskiy911/node-blended-mentor-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Nevskiy911/node-blended-mentor-1/issues"
+  },
+  "homepage": "https://github.com/Nevskiy911/node-blended-mentor-1#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "@faker-js/faker": "^9.8.0",
+    "eslint": "^9.28.0",
+    "globals": "^16.2.0"
+  }
+}
